@@ -16,5 +16,6 @@ In `data_description.txt` file all the features used for the prediction of the h
 In `main.py` the machine learning script is there.
 
 We have splitted the given dataset into training and testing dataset, before that dataset is shuffleed with label respectively which help us to make model more accurate and to avoid overfitting and underfitting.
-** train.csv and test.csv
-In `submission.csv` the final output file with predicted house price.
+* train.csv and test.csv
+
+4. In `submission.csv` the final output file with predicted house price.
